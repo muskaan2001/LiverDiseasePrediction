@@ -11,7 +11,7 @@ etc., of the liver patient dataset, have been used to predict the liver diseases
 techniques were utilized to conclude the data provided, and pre-processing performed using other methods. It 
 highlights the accuracies of these models found on the datasets provided.
 
-Code: <br?
+Code: liverDiseasePrediction.ipynb <br>
 Research Paper: Liver Disease Prediction using Evolutionary Hyper tuned Ensemble Algorithm (1).pdf <br>
 
 
